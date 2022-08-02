@@ -1,0 +1,5 @@
+1: Bitcoin
+2: Ethereum
+3: Exchange
+4: Nft
+Bitcoin Ethereum Exchange Nft 

@@ -1,0 +1,21 @@
+Fragmento tomado de mi anteproyecto de mi trabajo de fin de grado.
+
+
+Podemos considerar la blockchain como un gran libro de contabilidad inmodificable y compartido que van escribiendo una
+gran cantidad de ordenadores de forma simultánea.
+Cabe aclarar que cada vez que algún miembro de la red realiza una transacción digital, dicha transacción genera unos datos
+asociados que quedarán almacenados en uno de los bloques. Cuando ese bloque está completo de información, el bloque se
+acopla a la cadena de bloques ya existente.
+Este TFG va a tratar de analizar esas transacciones que dan lugar en la blockchain, observando así la procedencia y el destino
+de los fondos y análisis de billeteras.
+Esta herramienta nos permitirá obtener datos concretos a partir de nuestro algoritmo. Así pues, analizaremos una a una las
+direcciones de las carteras que obtengamos en nuestro análisis, ver la procedencia de los fondos, el destino, las direcciones
+“marcadas” y análisis de los datos de la blockchain.
+Esta necesidad surge debido a los fines ilícitos para los que pueden ser utilizados las criptomonedas, ya sea Bitcoin[1], Ethereum[2] o cualquier otro token. El uso más común es el de mezclado de tokens, para aprovechar la privacidad que se
+ofrece. Esto es una vía de escape para los tokens robados, tokens que han sido usados en mercados de la darknet o similares
+usos ilícitos.
+Estos intercambios se producen de manera descentralizada, eso quiere decir que no utiliza un Exchange[3] de criptomonedas, de manera que,
+esas carteras son anónimas y puede aumentarse más aún su privacidad por los mezcladores previamente mencionados.
+Por ello este analizador puede ser útil para investigar posibles transacciones, las cuales sean sospechosas o regulares, ya sean de
+billeteras que mueven grandes cantidades de tokens equitativos a muchas billeteras externas o blanqueo de capital mediante
+otros mercados, por ejemplo el de los Nft[4].
